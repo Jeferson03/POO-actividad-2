@@ -1,4 +1,4 @@
-package parte1_actividad2;
+package Ejercicio_14;
 
 import java.util.Scanner;
 public class Ejercicio_Resuelto_14 {
