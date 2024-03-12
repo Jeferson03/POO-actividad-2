@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Ejercicio_Resueto_11 {
 
     public static void main(String[] args) {
-        int num1, num2, num3;
+       int num1, num2, num3;
        Scanner nn = new Scanner(System.in);
        System.out.println("Digite el primer numero: ");
        num1 = nn.nextInt();
