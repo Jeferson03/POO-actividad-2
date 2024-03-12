@@ -1,7 +1,7 @@
 package parte1_actividad2;
 
 import java.util.Scanner;
-public class Ejercicio_Resueto_11 {
+public class Ejercicio_Resuelto_11 {
 
     public static void main(String[] args) {
        int num1, num2, num3;
